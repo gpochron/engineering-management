@@ -1,7 +1,7 @@
 # Engineering Management & Leadership Resources
 My favorite software engineering management and leadership resources. This is a work in progress.
 
-## Select Articles
+## Favorite Articles
  * [Stables and Volatiles](https://randsinrepose.com/archives/stables-and-volatiles/)) - I've shared this article with colleagues countless times over the years. I think it highlights a scenario that software companies inevitably run into as they grow and mature, and I have found that it does a good job of providing a stance on "the why" some engineers operate the way they do.
 
 ## Websites/Blogs
